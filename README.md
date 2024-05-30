@@ -1,4 +1,3 @@
-```markdown
 # ProductPRO
 
 ## Overview
@@ -33,4 +32,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 Para mais informações, visite nosso [site oficial](https://product-pro.app) ou entre em contato com nosso suporte em support@product-pro.app.
-```
