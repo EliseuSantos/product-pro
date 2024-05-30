@@ -9,16 +9,22 @@ ProductPRO é um software web projetado para ajudar empresas a comunicar atualiz
 Para instalar o ProductPRO, siga os passos abaixo:
 
 1. Clone o repositório:
-   git clone https://github.com/EliseuSantos/product-pro.git
-
+```bash
+git clone https://github.com/EliseuSantos/product-pro.git
+```
 2. Navegue até o diretório do projeto:
+```bash
    cd product-pro
-
+```
 3. Instale as dependências:
+```bash
    pnpm i
+```
 
 4. Inicie o servidor:
+```bash
    pnpm start
+```
 
 ## Usage
 
